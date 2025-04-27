@@ -11,7 +11,7 @@ NaVSU is a dedicated navigation app designed specifically for Visayas State Univ
 
 ## **ZN.020.001 Release Notes**
 
--**Major changes**:
+- **Major changes**:
   - Google Sign-In Integration: Users can now sign in using their Google accounts for a quicker and more seamless login experience.
   - Map API Integration using ArcGIS: Implemented ArcGIS for accurate and interactive location mapping across the platform.
   - Responsive UI Enhancements: Improved UI responsiveness across various screen sizes and devices to ensure a smoother user experience.
@@ -20,10 +20,10 @@ NaVSU is a dedicated navigation app designed specifically for Visayas State Univ
   - Points Accumulation Feature: Introduced a new system for users to earn points through various activities.
   - Search Bar Menu: Added a menu inside the search bar to offer quick shortcuts and categorized results.
 
--**Known Issues**:
+- **Known Issues**:
   - Realtime location updates may experience delays depending on signal strength and device calibration.
 
--**Available in the next build/release**:
+- **Available in the next build/release**:
   - Rewards Feature
   - Bug fixes for navigation
   - A new feature allowing users to add custom locations to the map
