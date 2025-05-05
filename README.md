@@ -6,7 +6,23 @@ NaVSU is a dedicated navigation app designed specifically for Visayas State Univ
 | ZN.010.000                | 2025-02-01       |
 | ZN.010.001                | 2025-03-04       |
 | ZN.020.001                | 2025-04-28       |
+| ZN.020.002                | 2025-05-06       |
 | ...                       | ...              |
+
+## **ZN.020.002 Release Notes**
+- **Major changes**:
+  - Admin & Moderator Interface: Added a dedicated interface for admins and moderators to manage the approval of user-submitted custom locations.
+  - Responsive Logo Sizing: Adjusted logo size responsiveness to ensure consistent appearance across different devices.
+  - Role-Based Sign-In Navigation: Modified sign-in flow to redirect users based on their roles—either as a regular user or an admin.
+  - Bug Fixes on Custom Location Markers: Resolved issues affecting the placement and display of custom location markers.
+  - Map Navigation UI Improvements: Enhanced the overall user interface and experience within the map navigation system.
+
+- **Known Issues**:
+  - Navigation Accuracy: Minor discrepancies may still occur in real-time navigation positioning.
+
+- **Available in the next build/release**:
+  - Addition of a Rewards Section for admins
+  - User Role Management feature for better control and access assignment
 
 
 ## **ZN.020.001 Release Notes**
